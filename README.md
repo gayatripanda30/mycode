@@ -1,3 +1,3 @@
 # mycode
-this is my new git repository.
-author- Gayatri
+This is my new git repository.
+Author- Gayatri Panda
